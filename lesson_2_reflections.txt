@@ -1,0 +1,3 @@
+whe i initialize a repository it create repository where i can find all my projeck files and the i can see what updutes was duing for itgi files and see progress
+i need to do it for 
+staging area different is area where you work at this time add some new featers and save them in commit, no at all you work directory the you can  test this what you done. This need for testinng 

@@ -1,0 +1,10 @@
+4e za hyin9???wtf
+when you diff files, you can see diffrence of you files and and it help you too find faster mistake
+when i save my old versions of my working file, in futire i can watch my progress, i can see my wick place and learn it
+i think i need more lern when i need commit my changes, cos i dont understand it in general
+pros of manually saving is when you save commit you can write a little discription and understand what you commit and its grow you understandoig of this proces automatically saving is good too because you dot forget to do commit 
+i think git allow too save multiple files, cus (он это позволяет потому что для удобной работы из кодом и для добавления какихто апдейтов, функций, нужно вносить изменения в несколько связанных файлов)
+when i use commands of git log and git diff i can watch commits with comments and diff it
+i can use version control too find bugs by save previous versions of me files then i can check this vervions and diff it из самой актуальной версией для обнаружения багов
+i want too use git as powerful instrument witch help me with my future projects 
+now i vont too try do my own progect but first of all i wand end this course
